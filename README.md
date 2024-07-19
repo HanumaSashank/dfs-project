@@ -1,6 +1,5 @@
 Distributed file system with pessimistic server replication, Locking Mechanism and Disconnection management.
 How to run the system:
-
 	1)First, run the Lock_server.py, Db_server.py, Active_server.py (use different terminals for different programs)
  	2)Then run all the corresponding Fileservers server1.py, server2.py and server3.py (in 3 different terminals)
 	3)Now run the new_client.py program
