@@ -53,5 +53,9 @@ This project implements a Distributed File System (DFS) designed to manage files
  - As soon as you run the client program the client will be automatically connected to one of the active servers as shown below:
    ![image](https://github.com/user-attachments/assets/3a5125dd-5991-49dc-a83d-284afea9b176)
  - Now based on your requirement give the file operations and can **check working of all normal file operations**(8 operations including “LIST”), **replication** (can check file creation and updating in the parent directory of the replica server), **Locking Mechanism** (similarly like above create multiple client instances by running the new_client.py program in different terminals) and **Node failure** as well. For testing node failures make sure you are running backup_ Db_server.py, backup_Active_server.py as well\
-**Note:** Make sure you’ve created all the required empty directories for every server in your local for smooth start.
+**Note:** Make sure you’ve created all the required empty directories for every server in your local for smooth start.\
+### For more details refer to the full [Project Report](https://github.com/user-attachments/files/18514997/OS_Final.pdf)and [Project PPT](https://github.com/user-attachments/files/18515025/AOS_FINAL_PPT.pptx)
+
+
+
 
