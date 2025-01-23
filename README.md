@@ -36,7 +36,7 @@ This project implements a Distributed File System (DFS) designed to manage files
  - **List Files:** View all currently available files in the whole distributed file system.
 ## Technology Stack
  - **Programming Language:** Python
- - **Libraries Used:** > socket, time, csv, os, shutil, random, collections
+ - **Libraries Used:** ```socket, time, csv, os, shutil, random, collections```
  - **Architecture:** Client-Server
 ## Architecture Diagram
 ![image](https://github.com/user-attachments/assets/eabbb3c5-47ae-49fb-bb4c-d51e1945fb06)
